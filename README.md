@@ -1,4 +1,4 @@
-# exerciciosPOO
+# Exercicios POO 2º Semetres - ADS
  Exercicios de POO
 
 QUESTÃO 01: Explique a diferença entre objeto e classe, comente quais suas funções em um programa.
